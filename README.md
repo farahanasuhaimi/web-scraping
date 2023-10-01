@@ -41,14 +41,11 @@ To get started with these web scraping experiments, follow these steps:
 
 1. Clone the repository to your local machine:
 
-```git clone https://github.com/your-username/web-scraping-experiments.git
-```
+> git clone https://github.com/your-username/web-scraping-experiments.git
 
 2. Install the required Python modules listed in the `requirements.txt` file:
 
-```pip install -r requirements.txt
-```
-
+> pip install -r requirements.txt
 
 3. Explore the individual experiment folders and their READMEs for detailed instructions on each experiment.
 
