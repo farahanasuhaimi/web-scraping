@@ -19,9 +19,9 @@ Web scraping is the process of extracting data from websites, and it can be a va
 
 Here are some of the web scraping experiments included in this repository:
 
-1. **Experiment 1: Beautiful Soup Basics**
+1. **Experiment 1: Beautiful Soup Applications**
    - Description: Introduction to web scraping with Beautiful Soup.
-   - Code: [Link to Experiment 1](experiment1/)
+   - Code: [Link to Experiment 1](experiment-1/)
 
 2. **Experiment 2: Scraping Dynamic Websites with Selenium**
    - Description: Using Selenium to scrape data from websites with dynamic content.
