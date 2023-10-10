@@ -1,0 +1,61 @@
+,Day,Date,Holiday Name,Type,Comments
+0,Sunday,2023-01-01,New Year's Day,Regional Holiday,Most states
+1,Monday,2023-01-02,New Year's Day (in lieu),Regional Holiday,Most states
+2,Saturday,2023-01-14,Birthday of the Sultan of Negeri Sembilan,Regional Holiday,Negeri Sembilan only
+3,Sunday,2023-01-22,Chinese New Year,National Holiday,1st day of 1st lunar month
+4,Monday,2023-01-23,Chinese New Year Holiday,National Holiday,
+5,Tuesday,2023-01-24,Chinese New Year Holiday,Regional Holiday,"Except JHR, KDH, KTN, TRG"
+6,Wednesday,2023-02-01,Federal Territory Day,Regional Holiday,"Kuala Lumpur, Labuan, Putrajaya"
+7,Sunday,2023-02-05,Thaipusam,Regional Holiday,Several states
+8,Monday,2023-02-06,Thaipusam (in lieu),Regional Holiday,Several states
+9,Saturday,2023-02-18,Isra and Miraj,Regional Holiday,"Kedah, Perlis and Negeri Sembilan"
+10,Saturday,2023-03-04,Anniversary of Installation of the Sultan,Regional Holiday,Terengganu
+11,Thursday,2023-03-23,Birthday of the Sultan of Johor,Regional Holiday,Johor only
+12,Thursday,2023-03-23,Beginning of Ramadan,Regional Holiday,"Kedah, Malacca"
+13,Sunday,2023-03-26,Beginning of Ramadan (in lieu),Regional Holiday,Johor
+14,Friday,2023-04-07,Good Friday,Regional Holiday,Sabah and Sarawak
+15,Saturday,2023-04-08,Nuzul Al-Quran Day,Regional Holiday,"All regions except Johor, Kedah, Malacca, Sabah, Sarawak"
+16,Saturday,2023-04-15,Declaration of Malacca as a Historical City,Regional Holiday,Malacca
+17,Friday,2023-04-21,Hari Raya Aidilfitri Holiday,National Holiday,Public holiday for Eid Al-Fitr
+18,Saturday,2023-04-22,Hari Raya Aidilfitri,National Holiday,End of Ramadan
+19,Sunday,2023-04-23,Hari Raya Aidilfitri Holiday,National Holiday,Second day of holiday for Eid Al-Fitr
+20,Monday,2023-04-24,Hari Raya Aidilfitri Holiday,Regional Holiday,"Except KDH,KTN,TRG"
+21,Wednesday,2023-04-26,Birthday of the Sultan of Terengganu,Regional Holiday,Terengganu only. Always celebrated on 26 April
+22,Monday,2023-05-01,Labour Day,National Holiday,International Workers' Day
+23,Thursday,2023-05-04,Wesak Day,National Holiday,Birth of Buddha
+24,Sunday,2023-05-14,Mother's Day,Not A Public Holiday,2nd Sunday in May. Not a public holiday
+25,Wednesday,2023-05-17,Birthday of the Raja of Perlis,Regional Holiday,Perlis only
+26,Monday,2023-05-22,The Sultan of Pahang Hol,Regional Holiday,Pahang
+27,Tuesday,2023-05-30,Pesta Kaamatan,Regional Holiday,Sabah and Labuan only
+28,Wednesday,2023-05-31,Pesta Kaamatan,Regional Holiday,Sabah and Labuan only
+29,Thursday,2023-06-01,Gawai Dayak,Regional Holiday,Sarawak
+30,Friday,2023-06-02,Gawai Dayak,Regional Holiday,Sarawak
+31,Monday,2023-06-05,Birthday of SPB Yang di Pertuan Agong,National Holiday,1st Monday in June
+32,Sunday,2023-06-18,Birthday of the Sultan of Kedah,Regional Holiday,Kedah only
+33,Sunday,2023-06-18,Father's Day,Not A Public Holiday,3rd Sunday in June. Not a public holiday
+34,Wednesday,2023-06-28,Arafat (Haj) Day,Regional Holiday,"Kelantan, Terengganu"
+35,Thursday,2023-06-29,Hari Raya Haji,National Holiday,Festival of Sacrifice
+36,Friday,2023-06-30,Hari Raya Haji Holiday,Regional Holiday,Some states
+37,Friday,2023-06-30,Hari Raya Haji Holiday,Government Holiday,Selangor. Civil servants
+38,Friday,2023-07-07,George Town Heritage Day,Regional Holiday,Penang only
+39,Saturday,2023-07-08,Birthday of the Governor,Regional Holiday,Penang
+40,Wednesday,2023-07-19,Awal Muharram,National Holiday,Hijri New Year
+41,Saturday,2023-07-22,Sarawak Day,Regional Holiday,
+42,Sunday,2023-07-30,Birthday of the Sultan of Pahang,Regional Holiday,Pahang only
+43,Sunday,2023-08-13,Public Holiday,Regional Holiday,Terengganu
+44,Monday,2023-08-14,Public Holiday,Regional Holiday,Selangor
+45,Wednesday,2023-08-23,The Sultan of Johor Hol,Regional Holiday,Johor only
+46,Thursday,2023-08-24,Melaka Governor's Birthday,Regional Holiday,Melaka
+47,Thursday,2023-08-31,National Day,National Holiday,Independence Day
+48,Saturday,2023-09-16,Malaysia Day,National Holiday,Became a Federal Holiday in 2010
+49,Thursday,2023-09-28,Maulidur Rasul,National Holiday,Birthday of Prophet Muhammad
+50,Saturday,2023-10-07,Birthday of the Governor of Sabah,Regional Holiday,Sabah only. 1st Saturday in October
+51,Saturday,2023-10-14,Birthday of the Governor of Sarawak,Regional Holiday,Sarawak only
+52,Friday,2023-11-03,Birthday of the Sultan of Perak,Regional Holiday,Perak
+53,Saturday,2023-11-11,Birthday of the Sultan of Kelantan,Regional Holiday,Kelantan only
+54,Sunday,2023-11-12,Deepavali,Regional Holiday,The festival of lights. Except Sarawak
+55,Sunday,2023-11-12,Birthday of the Sultan of Kelantan Holiday,Regional Holiday,Kelantan only. Second day
+56,Monday,2023-11-13,Deepavali Holiday,Regional Holiday,"Except JHR, KHD, KTN, SRW, TRG"
+57,Monday,2023-12-11,Birthday of The Sultan of Selangor,Regional Holiday,Selangor
+58,Sunday,2023-12-24,Christmas Eve,Regional Holiday,Sabah
+59,Monday,2023-12-25,Christmas Day,National Holiday,
